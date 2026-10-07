@@ -58,7 +58,7 @@ todo-app/
 
 ## Status
 
-In development.
+Still in development.
 
 ## Author
 
